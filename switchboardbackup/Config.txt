@@ -1,0 +1,1 @@
+{'datapath' :'E:/交换机管理/','zippath':'E:/交换机管理/zip/','host':'127.0.0.1','user':'sw','passwd':'sw..','db':'switchboard'}
